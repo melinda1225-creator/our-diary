@@ -11,7 +11,7 @@
   "checklist": {
     "sleepHours": 4,
     "medication": false,
-    "outing": false,
+    "outing": true,
     "cleaning": false,
     "delivery": false
   },
@@ -22,5 +22,5 @@
   },
   "comments": [],
   "createdAt": "2026-09-15T11:53:13.768Z",
-  "updatedAt": "2026-09-15T11:54:19.823Z"
+  "updatedAt": "2026-09-15T11:57:10.499Z"
 }
