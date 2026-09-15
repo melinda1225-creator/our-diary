@@ -15,7 +15,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "f8ceb828-60b6-41af-9938-3458ce737070",
+      "author": "미하라님왜저랑결혼안해주시나요marryme",
+      "text": "아니야너는컴공과가맞아너무멋잇어반할거같아.",
+      "image": null,
+      "createdAt": "2026-09-15T11:56:58.497Z"
+    }
+  ],
   "createdAt": "2026-09-15T11:51:34.749Z",
-  "updatedAt": "2026-09-15T11:55:23.490Z"
+  "updatedAt": "2026-09-15T11:56:58.497Z"
 }
