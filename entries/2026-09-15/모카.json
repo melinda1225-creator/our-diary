@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "50570b94-58a5-45ff-b8cd-41b56fd9f0b3",
+      "author": "미하라님왜저랑결혼안해주시나요marryme",
+      "text": "귀한곳에귀한트친이오다",
+      "image": null,
+      "createdAt": "2026-09-15T12:03:13.116Z"
+    }
+  ],
   "createdAt": "2026-09-15T11:49:51.155Z",
-  "updatedAt": "2026-09-15T12:02:09.695Z"
+  "updatedAt": "2026-09-15T12:03:13.116Z"
 }
