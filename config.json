@@ -21,6 +21,11 @@
           "key": "cleaning",
           "label": "청소",
           "icon": "🧹"
+        },
+        {
+          "key": "알바",
+          "label": "알바",
+          "icon": "💥"
         }
       ]
     },
