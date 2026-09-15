@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-15",
+  "author": "공이",
+  "moodTags": [
+    "#피곤",
+    "#빡셈"
+  ],
+  "content": "어렵다 ㅅㅂ",
+  "images": [],
+  "checklist": {
+    "sleepHours": null,
+    "medication": false,
+    "outing": false,
+    "cleaning": false,
+    "delivery": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-15T11:51:34.749Z",
+  "updatedAt": "2026-09-15T11:51:36.043Z"
+}
