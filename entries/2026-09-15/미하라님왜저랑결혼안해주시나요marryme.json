@@ -11,12 +11,16 @@
   "checklist": {
     "sleepHours": 4,
     "medication": false,
-    "outing": true,
+    "outing": false,
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "😢": [
+      "공이"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-15T11:53:13.768Z",
-  "updatedAt": "2026-09-15T11:53:28.686Z"
+  "updatedAt": "2026-09-15T11:54:19.823Z"
 }
