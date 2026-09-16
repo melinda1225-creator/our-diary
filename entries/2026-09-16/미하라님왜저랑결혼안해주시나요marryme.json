@@ -16,7 +16,11 @@
     "cleaning": false,
     "delivery": true
   },
-  "reactions": {},
+  "reactions": {
+    "🍀": [
+      "공이"
+    ]
+  },
   "comments": [
     {
       "id": "a9ef11b1-79cb-4767-98ca-b04bee2e2af4",
@@ -34,5 +38,5 @@
     }
   ],
   "createdAt": "2026-09-16T13:28:33.110Z",
-  "updatedAt": "2026-09-16T13:52:41.943Z"
+  "updatedAt": "2026-09-16T13:52:48.106Z"
 }
