@@ -15,7 +15,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "2a7c5410-66e5-4d42-98df-038ee5569a59",
+      "author": "공이",
+      "text": "그럴 땐 일찍 자야 혀 씻고 뽀송한 상태로",
+      "image": null,
+      "createdAt": "2026-09-16T13:29:43.326Z"
+    }
+  ],
   "createdAt": "2026-09-16T13:18:12.888Z",
-  "updatedAt": "2026-09-16T13:18:16.038Z"
+  "updatedAt": "2026-09-16T13:29:43.326Z"
 }
