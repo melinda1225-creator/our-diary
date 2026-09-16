@@ -17,7 +17,15 @@
     "delivery": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "a9ef11b1-79cb-4767-98ca-b04bee2e2af4",
+      "author": "공이",
+      "text": "개강 한 지 얼마 안 됐잔아 아직 공부 안 해도 됨",
+      "image": null,
+      "createdAt": "2026-09-16T13:52:25.716Z"
+    }
+  ],
   "createdAt": "2026-09-16T13:28:33.110Z",
-  "updatedAt": "2026-09-16T13:30:44.828Z"
+  "updatedAt": "2026-09-16T13:52:25.716Z"
 }
