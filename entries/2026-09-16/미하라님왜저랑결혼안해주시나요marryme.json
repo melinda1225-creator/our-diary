@@ -14,10 +14,10 @@
     "medication": false,
     "outing": true,
     "cleaning": false,
-    "delivery": false
+    "delivery": true
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-16T13:28:33.110Z",
-  "updatedAt": "2026-09-16T13:28:34.127Z"
+  "updatedAt": "2026-09-16T13:30:44.828Z"
 }
