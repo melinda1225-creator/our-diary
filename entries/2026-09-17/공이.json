@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-17",
+  "author": "공이",
+  "moodTags": [
+    "#피곤",
+    "#지침"
+  ],
+  "content": "새벽에 술 마시고 늦게 자서 그런가 하루종일 넘넘 피곤했음…\n약 안 먹어서 컨디션도 안 좋구 겜 할 기운도 나지 않앗다\n그치만 오늘 하루가 후회되진 않음 잠이나 푹 자자!",
+  "images": [],
+  "checklist": {
+    "sleepHours": 7,
+    "medication": false,
+    "outing": true,
+    "cleaning": false,
+    "알바": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-17T13:09:07.929Z",
+  "updatedAt": "2026-09-17T13:09:15.854Z"
+}
