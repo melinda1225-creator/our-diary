@@ -19,7 +19,15 @@
       "모카"
     ]
   },
-  "comments": [],
+  "comments": [
+    {
+      "id": "7d7be836-a7c7-4d31-a0ba-10e8d284aeda",
+      "author": "모카",
+      "text": "그런 하루도 있는거지 담엔 조심하기",
+      "image": null,
+      "createdAt": "2026-09-17T13:20:57.071Z"
+    }
+  ],
   "createdAt": "2026-09-17T13:09:07.929Z",
-  "updatedAt": "2026-09-17T13:20:39.564Z"
+  "updatedAt": "2026-09-17T13:20:57.071Z"
 }
