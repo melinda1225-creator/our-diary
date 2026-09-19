@@ -13,8 +13,12 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "👍": [
+      "공이"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-19T12:56:36.344Z",
-  "updatedAt": "2026-09-19T12:56:37.454Z"
+  "updatedAt": "2026-09-19T14:00:30.215Z"
 }
