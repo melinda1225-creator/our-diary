@@ -15,7 +15,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "52199f1f-4bd5-4c44-925b-973e11a73800",
+      "author": "공이",
+      "text": "부럽다",
+      "image": null,
+      "createdAt": "2026-09-19T14:01:07.650Z"
+    }
+  ],
   "createdAt": "2026-09-19T12:57:25.036Z",
-  "updatedAt": "2026-09-19T12:57:54.365Z"
+  "updatedAt": "2026-09-19T14:01:07.650Z"
 }
