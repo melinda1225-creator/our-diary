@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "a08acbc8-ee86-4fdd-b2af-0ddcbf36082e",
+      "author": "공이",
+      "text": "모카쨩도 더위 조심",
+      "image": null,
+      "createdAt": "2026-09-20T14:50:57.742Z"
+    }
+  ],
   "createdAt": "2026-09-20T13:27:42.057Z",
-  "updatedAt": "2026-09-20T13:27:43.374Z"
+  "updatedAt": "2026-09-20T14:50:57.743Z"
 }
