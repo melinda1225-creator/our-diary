@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-20",
+  "author": "모카",
+  "moodTags": [
+    "#배고픔"
+  ],
+  "content": "오늘 일정 꼬여서 가고싶은델 못갔어...\n낼 갈까말까 고민 낮엔 엄청 덥던데 다들 더위조심",
+  "images": [],
+  "checklist": {
+    "sleepHours": null,
+    "medication": false,
+    "outing": true,
+    "cleaning": false,
+    "delivery": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-20T13:27:42.057Z",
+  "updatedAt": "2026-09-20T13:27:43.374Z"
+}
