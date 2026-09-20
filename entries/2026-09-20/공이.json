@@ -13,8 +13,12 @@
     "cleaning": false,
     "알바": false
   },
-  "reactions": {},
+  "reactions": {
+    "😢": [
+      "모카"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-20T11:22:52.700Z",
-  "updatedAt": "2026-09-20T11:22:54.151Z"
+  "updatedAt": "2026-09-20T13:26:42.197Z"
 }
