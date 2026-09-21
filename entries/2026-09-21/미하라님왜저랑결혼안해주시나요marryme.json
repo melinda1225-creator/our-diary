@@ -20,8 +20,12 @@
     "cleaning": false,
     "delivery": false
   },
-  "reactions": {},
+  "reactions": {
+    "👍": [
+      "모카"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-09-21T10:52:05.237Z",
-  "updatedAt": "2026-09-21T10:53:03.009Z"
+  "updatedAt": "2026-09-21T14:38:01.401Z"
 }
