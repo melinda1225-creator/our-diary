@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "c08cd351-d7ea-492b-a9db-c1fd8f07e613",
+      "author": "공이",
+      "text": "그래서 제거는요",
+      "image": null,
+      "createdAt": "2026-09-21T23:27:59.637Z"
+    }
+  ],
   "createdAt": "2026-09-21T14:39:48.942Z",
-  "updatedAt": "2026-09-21T14:39:50.663Z"
+  "updatedAt": "2026-09-21T23:27:59.637Z"
 }
