@@ -20,7 +20,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "b6513ec4-0d49-4a2a-a303-951102dc4012",
+      "author": "공이",
+      "text": "바쁘게 사시네요",
+      "image": null,
+      "createdAt": "2026-09-22T17:24:49.395Z"
+    }
+  ],
   "createdAt": "2026-09-22T14:23:14.463Z",
-  "updatedAt": "2026-09-22T14:23:22.304Z"
+  "updatedAt": "2026-09-22T17:24:49.396Z"
 }
