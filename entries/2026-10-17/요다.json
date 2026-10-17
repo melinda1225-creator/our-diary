@@ -14,7 +14,15 @@
     "delivery": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "fae85c70-3a48-4b68-a719-ea782b1d4d69",
+      "author": "공이",
+      "text": "너는 이게 일기냐!",
+      "image": null,
+      "createdAt": "2026-10-17T14:03:11.981Z"
+    }
+  ],
   "createdAt": "2026-10-17T13:23:56.864Z",
-  "updatedAt": "2026-10-17T13:24:18.883Z"
+  "updatedAt": "2026-10-17T14:03:11.981Z"
 }
