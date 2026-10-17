@@ -14,7 +14,15 @@
     "알바": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "98763ee9-9e70-4c89-b6bc-0e8b02292bf8",
+      "author": "요다",
+      "text": "이게 일기냐!",
+      "image": null,
+      "createdAt": "2026-10-17T13:24:47.679Z"
+    }
+  ],
   "createdAt": "2026-10-17T12:47:24.425Z",
-  "updatedAt": "2026-10-17T12:47:25.709Z"
+  "updatedAt": "2026-10-17T13:24:47.679Z"
 }
