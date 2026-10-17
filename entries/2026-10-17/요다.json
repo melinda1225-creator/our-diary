@@ -21,8 +21,15 @@
       "text": "너는 이게 일기냐!",
       "image": null,
       "createdAt": "2026-10-17T14:03:11.981Z"
+    },
+    {
+      "id": "d1b6cc1c-2cb4-4300-8e5f-41ff1facdaee",
+      "author": "요다",
+      "text": "ㅋㅋㅋㅋㅋㅋㅋㅋ귀엽자너",
+      "image": null,
+      "createdAt": "2026-10-17T16:07:55.794Z"
     }
   ],
   "createdAt": "2026-10-17T13:23:56.864Z",
-  "updatedAt": "2026-10-17T14:03:11.981Z"
+  "updatedAt": "2026-10-17T16:07:55.794Z"
 }
