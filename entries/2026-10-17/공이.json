@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-17",
+  "author": "공이",
+  "moodTags": [
+    "#피곤"
+  ],
+  "content": "햄들다",
+  "images": [],
+  "checklist": {
+    "sleepHours": 10,
+    "medication": true,
+    "outing": false,
+    "cleaning": false,
+    "알바": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-10-17T12:47:24.425Z",
+  "updatedAt": "2026-10-17T12:47:25.709Z"
+}
