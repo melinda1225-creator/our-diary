@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-18",
+  "author": "요다",
+  "moodTags": [
+    "#초조"
+  ],
+  "content": "이런 샤갈! \n시간이 이렇게나 많이 있는데 공부를 안한다.\n미친여자임이 분명하다.",
+  "images": [],
+  "checklist": {
+    "sleepHours": 8,
+    "medication": true,
+    "outing": false,
+    "cleaning": false,
+    "delivery": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-10-18T14:21:45.700Z",
+  "updatedAt": "2026-10-18T14:21:55.328Z"
+}
