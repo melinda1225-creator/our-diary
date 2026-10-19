@@ -16,8 +16,12 @@
     "cleaning": false,
     "알바": false
   },
-  "reactions": {},
+  "reactions": {
+    "🤗": [
+      "요다"
+    ]
+  },
   "comments": [],
   "createdAt": "2026-10-19T05:28:46.701Z",
-  "updatedAt": "2026-10-19T05:28:49.913Z"
+  "updatedAt": "2026-10-19T12:43:17.070Z"
 }
