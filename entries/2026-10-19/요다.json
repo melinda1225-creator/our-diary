@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-19",
+  "author": "요다",
+  "moodTags": [
+    "#불안"
+  ],
+  "content": "ㄹㅈㄷ",
+  "images": [],
+  "checklist": {
+    "sleepHours": 3.5,
+    "medication": true,
+    "outing": true,
+    "cleaning": false,
+    "delivery": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-10-19T16:22:15.364Z",
+  "updatedAt": "2026-10-19T16:22:17.279Z"
+}
